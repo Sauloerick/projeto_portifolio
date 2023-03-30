@@ -112,7 +112,7 @@ body {
     border: 2px solid var(--cor-3);
 }
 
-.apresentacao-links-link:hover {
+.apresentacao-links-nav:hover {
     background-color: var(--cor-4);
     padding: 2%;
 }
